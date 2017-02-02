@@ -23,4 +23,9 @@ What are some situations when branches would be helpful in keeping your history 
 	how does the merge process make up for the changes in the two files? what if something 
 	the branch was dependant on in the master no longer exists in the master?
 	
+How do the diagrams help you visualize the branch structure?
+
+	the diagrams did help me visualize the concept of the checkout detached head and the 
+	creation of new branches using git checkout -b new_branch_name
+	
 	
