@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Viewing a diff between two versions of a file helped me see the bug because it 
+	clearly displayed in pluses and minuses the difference between the lines of code in
+	the files.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I would save a lot of time being able to find errors or moving from moving 
+	backward from an unwanted coding position if i had control of previous saved versions.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The cons would be forgetting to commit.  The pros are obvious, saving versions that
+	will help you do many things you'd wish you could do without saving versions.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Im not sure.  I hope this will become clearer as we go along.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    i can use git log to get a list of all the git commit ids and then i can use
+	git diff -u id id to see a list of the differences between two files using their
+	ids as identifiers
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    With version reminds me of hansel and gretels breadcrumbs only not likely to be 
+	eaten by birds.  I can basically make changes without worry because i can seemingly 
+	always find my way back - that is once i learn how to manage the files head & its
+	ordering. (right now whatever file i checkout becomes the new head order)
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try continuing coding my website/webapp - and then maybe even try out
+	angular 2 ionic since it required downloading node js. and needed npm & i think git?
