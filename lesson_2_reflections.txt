@@ -15,3 +15,12 @@ How can you use the staging area to make sure you have one commit per logical ch
 	another.)  for example i can make a change to an html file, its corresponding js file 
 	and its corresponding style sheet and add the changes of all 3 files to the same 
 	commit allowing me to track one logical change whose code spanned over 3 files.
+	
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	I Need more info to answer this.  right now I can see the benefits but what about when 
+	the master branch other branches develop separately and independingly from each other, 
+	how does the merge process make up for the changes in the two files? what if something 
+	the branch was dependant on in the master no longer exists in the master?
+	
+	
