@@ -1,10 +1,17 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-		the staging area is different from the working directory because it holds the value
-		of the last commit while you change the staging area.  when you run git status it
-		is able to tell you that you have made changes in the working directory.
-		
-		the staging area is different from the repository because it holds changes you have made to the working directory once you have added the file to the staging area to be reviewed to be committed. it allows you an additional step of review before actually committing to a commit.
-		
-		try notepad.exe as core.editor
-		
+	the staging area is different from the working directory because it holds the value
+	of the last commit while you change the staging area.  when you run git status it
+	is able to tell you that you have made changes in the working directory.
+	
+	the staging area is different from the repository because it holds changes you have made to the working directory once you have added the file to the staging area to be reviewed to be committed. it allows you an additional step of review before actually committing to a commit.
+	
+	try notepad.exe as core.editor
+	
+How can you use the staging area to make sure you have one commit per logical change?
+
+	The staging area allows me to add on or more files that are associated with the 
+	particular logical change i am making (as the files are related in some way to one
+	another.)  for example i can make a change to an html file, its corresponding js file 
+	and its corresponding style sheet and add the changes of all 3 files to the same 
+	commit allowing me to track one logical change whose code spanned over 3 files.
