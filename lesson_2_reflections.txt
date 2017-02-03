@@ -28,4 +28,16 @@ How do the diagrams help you visualize the branch structure?
 	the diagrams did help me visualize the concept of the checkout detached head and the 
 	creation of new branches using git checkout -b new_branch_name
 	
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The result of merging two branches together is one branch.  more specifically 
+	whatever branch is checked out is the one that is the merge heading. it represented in the diagram the way it is because it literally becomes the title for 2 branches 
+	worth of commits. almost like the commits are still there only there is one resulting
+	file instead of 2.
 	
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	
+	The pros of Gits automatic merging is you don't have to go hunting for other peoples
+	changes on thousands of lines of code.  Git points the changes out for you to evaluate
+	the cons are the git can't determin what is needed beyond that so you still have to 
+	made decisions on the code - (also a pro)
