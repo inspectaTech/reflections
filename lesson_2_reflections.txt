@@ -41,3 +41,5 @@ What are the pros and cons of Git’s automatic merging vs. always doing merges 
 	changes on thousands of lines of code.  Git points the changes out for you to evaluate
 	the cons are the git can't determin what is needed beyond that so you still have to 
 	made decisions on the code - (also a pro)
+	
+I wonder are these all the same?
