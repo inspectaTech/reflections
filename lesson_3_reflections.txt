@@ -17,3 +17,9 @@ Describe the differences between forks, clones, and branches. When would you use
 	the original file anymore as a pushed commit of a clone to a new remote repository  
 	instead of a cloned fork.
 	
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	the benefit of having the last known state stored locally is the only way to keep track 
+	of how far behind or in front of the remote your current state is.  It can also tell you 
+	when the state of the remote and your current state have diverged. if you didnt' have 
+	this record there would be not way of knowing and you would create merges into chaos.
