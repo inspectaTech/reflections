@@ -1,1 +1,6 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
+	I don't need for Git to pull changes at will because i may not want the remote changes 
+	added to my local master, i may even want to organize those changes into another branch.
+	The current setup gives me the ability to manage the use of all changes to very 
+	sensitive working materials.
