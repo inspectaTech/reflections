@@ -4,3 +4,16 @@ Why might you want to always pull changes manually rather than having Git automa
 	added to my local master, i may even want to organize those changes into another branch.
 	The current setup gives me the ability to manage the use of all changes to very 
 	sensitive working materials.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	branches are new directions you want you file tree to go in in order to make changes  
+	that wont affect the main tree line until you are ready for those changes to take 
+	effect (if ever).  A clone is a copy of a gitHub remote. added to your local computer.
+	a fork is a gitHub clone that is added to your gitHub remote account and not your local  
+	computer that is directly related to the original remote still on gitHub.  I know we  
+	can still upload a clone to our remote which will be like a clone exising on our gitHub  
+	remote account but its different.  I don't think it has the same origin? or links to  
+	the original file anymore as a pushed commit of a clone to a new remote repository  
+	instead of a cloned fork.
+	
